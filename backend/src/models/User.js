@@ -1,0 +1,2 @@
+// User Schema
+module.exports = {};

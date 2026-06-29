@@ -1,0 +1,2 @@
+// Feedback Schema
+module.exports = {};

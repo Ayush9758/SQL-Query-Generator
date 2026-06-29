@@ -1,0 +1,2 @@
+// PromptHistory Schema
+module.exports = {};

@@ -1,0 +1,2 @@
+// QueryHistory Schema
+module.exports = {};

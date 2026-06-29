@@ -1,0 +1,2 @@
+// APIUsage Schema
+module.exports = {};

@@ -1,0 +1,2 @@
+// Cloudinary Config
+module.exports = {};
