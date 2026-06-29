@@ -138,8 +138,3 @@ npm run dev
 
 > **Important:** Keep your credentials secure. Never push `.env` files or your local `node_modules` folders to a public version control history. This repository utilizes built-in GitHub Push Protection and standard `.gitignore` rules to safeguard private configurations.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
